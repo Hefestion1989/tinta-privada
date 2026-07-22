@@ -1,8 +1,16 @@
 # Tinta Privada
 
-Aplicación local y de código abierto para escritura creativa y roleplay adulto con modelos instalados en LM Studio.
+Aplicación local y de código abierto para narradores, escritores y personas que quieran experimentar libremente con relatos, personajes y roleplay adulto mediante modelos instalados en LM Studio.
+
+> Escritura libre en tu computadora: tus historias no necesitan salir de ella.
 
 Tinta Privada funciona como un escritorio narrativo: organiza universos, canon, personajes, escenas y memoria, mientras LM Studio ejecuta el modelo. No forma parte de Tinta Viva, no comparte su almacenamiento y no necesita enviar historias a servicios externos.
+
+## Libertad narrativa y privacidad
+
+La aplicación admite narrativa general, romance y contenido erótico o explícito entre personajes adultos. Tinta Privada no agrega filtros de contenido: la respuesta concreta depende del modelo local elegido y de su configuración.
+
+La interfaz funciona en `localhost`, las llamadas al modelo se dirigen al LM Studio del mismo equipo y los relatos se guardan en el perfil local del navegador. El proyecto no incorpora cuentas, telemetría ni una nube propia. El objetivo es ofrecer un espacio discreto para probar ideas, practicar escritura, construir novelas interactivas o desarrollar roleplay sin entregar el material a un servicio externo.
 
 ## Funciones
 
