@@ -1,0 +1,50 @@
+TINTA PRIVADA
+==============
+
+Abrir
+-----
+Usá el acceso “Tinta Privada” del Escritorio.
+
+El acceso inicia el servidor de LM Studio y abre inmediatamente la aplicación
+en http://localhost:3000. Si no hay ningún modelo cargado, inicia Lexi
+Uncensored Heretic; si ya elegiste otro desde la aplicación, respeta esa selección.
+
+Uso básico
+----------
+1. Elegí Historia o Roleplay.
+2. Organizá Mundo, Personajes, Escena y Memoria desde el panel Tinta Privada.
+3. Escribí abajo y presioná Enter. Shift + Enter agrega una línea.
+4. Mientras responde, el botón cuadrado detiene la generación.
+5. El selector “Modelo” está siempre visible en la barra superior. Cambiarlo
+   libera el modelo anterior y carga el nuevo; puede tardar entre 20 y 60 s.
+
+Las historias se guardan automáticamente en el navegador de este equipo.
+“Paquete” crea un archivo .tintaprivada.json que conserva universo, fichas,
+escena, memoria y conversación. “Markdown” crea una copia legible.
+
+Importar novelas y proyectos
+----------------------------
+El botón “Importar” acepta Markdown, texto y paquetes de Tinta Privada. Un archivo
+de texto o Markdown se incorpora como canon de un universo nuevo. Esto permite
+traer material exportado o copiado de proyectos de ChatGPT sin conectarlos ni
+enviar el contenido a otra nube.
+
+Canon y sandbox
+---------------
+Canon puede dejar consecuencias en la continuidad. Sandbox sirve para probar
+escenas alternativas; no modifica el canon hasta que vos decidas incorporarlo.
+
+Modelo recomendado
+------------------
+El modelo inicial es Lexi Uncensored Heretic 8B Q5 en CPU, con contexto 4096.
+Es el equilibrio recomendado entre libertad creativa, estilo y velocidad.
+
+Privacidad
+----------
+La web y LM Studio trabajan en localhost. No publiques el puerto 1234 ni el
+puerto 3000 en Internet.
+
+Separación de Tinta Viva
+------------------------
+Tinta Privada es el espacio específico para relatos eróticos y roleplay adulto.
+No comparte almacenamiento con Tinta Viva ni se presenta como un módulo suyo.
