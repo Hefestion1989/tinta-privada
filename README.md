@@ -73,6 +73,8 @@ La interfaz se sirve localmente y las llamadas a LM Studio pasan por el servidor
 
 GitHub Pages puede mostrar la documentación del proyecto, pero no ejecutar la aplicación completa: Tinta Privada necesita un servidor Node local y acceso al LM Studio instalado en el mismo equipo.
 
+El repositorio incluye la estructura de build de Sites, pero la aplicación alojada no puede alcanzar el LM Studio del equipo del visitante mediante `127.0.0.1`: esa dirección apuntaría al servidor remoto. Para ofrecer generación desde Sites hace falta diseñar una conexión local o un motor remoto con un modelo y reglas de privacidad definidos. La interfaz por sí sola no equivale a una migración funcional.
+
 ## Licencia
 
 El código se distribuye bajo la [licencia MIT](LICENSE). Los modelos y materiales importados mantienen sus propias licencias.
